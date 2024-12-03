@@ -1,6 +1,10 @@
 vcjzhckjzcnbb
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 fdhnvv
 vhgkjjc
 >>>>>>> Stashed changes
+=======
+fdhnvvc
+>>>>>>> feature_branch
